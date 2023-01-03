@@ -1,0 +1,20 @@
+Description: Kinesis Data Streams
+
+#Definiendo parámetros que se usarán dentro de la creación de recursos
+Parameters: 
+
+  pNameStream: 
+    Description: Nombre de stream
+    Type: String
+    Default: sales-adidas
+
+#Definiendo recursos que se crearán en AWS
+Resources:
+
+  #Creando recurso en Kinesis Data Streams
+  rStream: 
+    Type: AWS::Kinesis::Stream 
+    Properties: 
+      Name: !Ref pNameStream
+      RetentionPeriodHours: 24 #Tiempo que existen los mensajes en KDS
+      ShardCount: 1
