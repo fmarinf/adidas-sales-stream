@@ -1,7 +1,7 @@
 # adidas-sales-stream
 
 
-![alt text](https://github.com/fmarinf/adidas-sales-stream/blob/master/consumer-producer-kds.png?raw=true)
+![alt text](https://github.com/fmarinf/adidas-sales-stream/blob/master/consumer-producer-kds.jpg?raw=true)
 
 
 A simple architecture is proposed, created through a stack given by CloudFormation in its YAML format.
