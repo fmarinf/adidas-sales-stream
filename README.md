@@ -1,7 +1,7 @@
 # adidas-sales-stream
 
 
-![aws kds architecture](assets/consumer-producer-kds.jpg)
+![aws kds architecture](assets/consumer-producer-kds.png)
 
 
 A simple architecture is proposed, created through a stack given by CloudFormation in its YAML format.
