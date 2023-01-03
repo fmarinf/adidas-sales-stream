@@ -1,6 +1,10 @@
 # adidas-sales-stream
 
-A simple architecture is proposed, created through a stack given by CloudFormation in its YAML format.![alt text](https://github.com/fmarinf/adidas-sales-stream/blob/master/consumer-producer-kds.png?raw=true)
+
+![alt text](https://github.com/fmarinf/adidas-sales-stream/blob/master/consumer-producer-kds.png?raw=true)
+
+
+A simple architecture is proposed, created through a stack given by CloudFormation in its YAML format.
 
 ``` bash
 aws cloudformation create-stack --stack-name StackKDS --template-body file://kds.yaml
