@@ -4,7 +4,7 @@
 ![aws kds architecture](assets/streaming-aws-architecture.png)
 
 
-A simple stream architecture is proposed, it is partially created through a stack given by CloudFormation in its YAML format.
+A simple stream2batch architecture is proposed, it is partially created through a stack given by CloudFormation in its YAML format.
 
 ``` bash
 aws cloudformation create-stack --stack-name StackKDS --template-body file://kds.yaml
