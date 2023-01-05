@@ -1,4 +1,4 @@
-# adidas-sales-stream
+# adidas-sales-stream-2-batch
 
 
 ![aws kds architecture](assets/streaming-aws-architecture.png)
