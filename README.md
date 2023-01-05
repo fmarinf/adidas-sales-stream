@@ -14,6 +14,6 @@ The objective is to use the Kinesis Data Stream service to propose the interacti
 
 In this case, the dataset used is taken from Kaggle to generate a data stream in real time.
 
-The lang of the dashboard is spanish.
+The lang of the dashboard is Spanish.
 
 ![Dashboard](assets/dashboard.PNG)
