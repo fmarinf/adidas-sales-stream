@@ -1,7 +1,7 @@
 # adidas-sales-stream
 
 
-![aws kds architecture](assets/streaming-architecture.png)
+![aws kds architecture](assets/streaming-aws-architecture.png)
 
 
 A simple stream architecture is proposed, it is partially created through a stack given by CloudFormation in its YAML format.
